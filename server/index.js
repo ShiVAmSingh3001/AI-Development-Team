@@ -79,7 +79,7 @@ async function start() {
   console.log("");
   console.log("╔══════════════════════════════════════════════════════════╗");
   console.log("║                                                          ║");
-  console.log("║   🤖  CODEWS — Mission Control Server                   ║");
+  console.log("║   🤖  ANTIGRAVITY — Mission Control Server              ║");
   console.log("║   Phase 7: Web Dashboard                                 ║");
   console.log("║                                                          ║");
   console.log("╚══════════════════════════════════════════════════════════╝");

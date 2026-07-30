@@ -44,7 +44,7 @@ function printBanner() {
   console.log("");
   console.log("╔══════════════════════════════════════════════════════════╗");
   console.log("║                                                          ║");
-  console.log("║    🤖  CODEWS — Multi-Agent Development System          ║");
+  console.log("║    🤖  ANTIGRAVITY — Multi-Agent Development System     ║");
   console.log("║                                                          ║");
   console.log("║    Phase 4: Full Dev Loop — AI Writes Code!             ║");
   console.log("║                                                          ║");
