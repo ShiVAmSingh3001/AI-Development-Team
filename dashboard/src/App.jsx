@@ -78,7 +78,7 @@ export default function App() {
         <div className="header-left">
           <div className="logo">
             <span className="logo-mark">//</span>
-            <span className="logo-text">DEVTEAM</span>
+            <span className="logo-text">NEXDEV</span>
           </div>
           <span className="header-divider" />
           <span className="header-label">mission control</span>

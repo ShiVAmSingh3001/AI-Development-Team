@@ -1,7 +1,7 @@
 {
-  "name": "antigravity",
+  "name": "nexdev",
   "version": "2.0.0",
-  "description": "AI-Powered Multi-Agent Software Development Team",
+  "description": "NexDev — AI-Powered Multi-Agent Software Development System",
   "author": "Utsav",
   "type": "module",
   "main": "src/index.js",
