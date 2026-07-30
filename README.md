@@ -8,7 +8,7 @@ npm run dev
 
 
 
-# 🤖 AI Dev Team — Multi-Agent Software Development System
+# 🤖 Codews — Multi-Agent Software Development System
 
 An autonomous multi-agent system that takes a software requirement, plans it, writes code, debugs it, tests it, and deploys — built with LangGraph + Gemini.
 
@@ -28,7 +28,7 @@ An autonomous multi-agent system that takes a software requirement, plans it, wr
 
 ```bash
 # Clone/copy the project
-cd ai-dev-team
+cd codews
 
 # Install dependencies
 npm install
@@ -90,7 +90,7 @@ Tests the PM Agent with REAL Gemini API calls:
 ## Project Structure
 
 ```
-ai-dev-team/
+codews/
 ├── src/
 │   ├── index.js              # Main entry point (CLI)
 │   ├── agents/
